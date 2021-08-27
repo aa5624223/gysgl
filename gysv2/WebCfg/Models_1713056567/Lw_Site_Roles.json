@@ -1,0 +1,65 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "title": {
+    "Name": "title",
+    "type": "String",
+    "Tag": {}
+  },
+  "UrlKey": {
+    "Name": "UrlKey",
+    "type": "String",
+    "Tag": {}
+  },
+  "parentId": {
+    "Name": "parentId",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "isOpt": {
+    "Name": "isOpt",
+    "type": "Boolean",
+    "Tag": {}
+  },
+  "cOrder": {
+    "Name": "cOrder",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "isMenu": {
+    "Name": "isMenu",
+    "type": "Boolean",
+    "Tag": {}
+  },
+  "cComponey": {
+    "Name": "cComponey",
+    "type": "String",
+    "Tag": {}
+  },
+  "isAuth": {
+    "Name": "isAuth",
+    "type": "Boolean",
+    "Tag": {}
+  },
+  "isSubMenu": {
+    "Name": "isSubMenu",
+    "type": "Boolean",
+    "Tag": {}
+  },
+  "isMobile": {
+    "Name": "isMobile",
+    "type": "Boolean",
+    "Tag": {}
+  }
+}

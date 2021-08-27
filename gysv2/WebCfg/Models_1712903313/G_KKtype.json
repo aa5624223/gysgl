@@ -1,0 +1,81 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "type": {
+    "Name": "type",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_date": {
+    "Name": "G_date",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_name": {
+    "Name": "G_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "S_date": {
+    "Name": "S_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "S_name": {
+    "Name": "S_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "D_date": {
+    "Name": "D_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "D_name": {
+    "Name": "D_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "D_state": {
+    "Name": "D_state",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine6": {
+    "Name": "cDefine6",
+    "type": "String",
+    "Tag": {}
+  }
+}

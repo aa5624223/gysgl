@@ -1,0 +1,41 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "MATNR": {
+    "Name": "MATNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "MAKTX": {
+    "Name": "MAKTX",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  }
+}

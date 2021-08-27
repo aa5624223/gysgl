@@ -1,0 +1,114 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "FID": {
+    "Name": "FID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "cInvCode": {
+    "Name": "cInvCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cInvName": {
+    "Name": "cInvName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cInvStd": {
+    "Name": "cInvStd",
+    "type": "String",
+    "Tag": {}
+  },
+  "cUnit": {
+    "Name": "cUnit",
+    "type": "String",
+    "Tag": {}
+  },
+  "cState": {
+    "Name": "cState",
+    "type": "String",
+    "Tag": {}
+  },
+  "iQuantiry": {
+    "Name": "iQuantiry",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "iPrice": {
+    "Name": "iPrice",
+    "type": "Double",
+    "Tag": {}
+  },
+  "iReceivedQTY": {
+    "Name": "iReceivedQTY",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "dSDate": {
+    "Name": "dSDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "dEDate": {
+    "Name": "dEDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "iConfirm": {
+    "Name": "iConfirm",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "dCDate": {
+    "Name": "dCDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "cMemo": {
+    "Name": "cMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  }
+}

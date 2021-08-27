@@ -1,0 +1,72 @@
+{
+  "MATNR": {
+    "Name": "MATNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "MAKTX": {
+    "Name": "MAKTX",
+    "type": "String",
+    "Tag": {}
+  },
+  "All_Count": {
+    "Name": "All_Count",
+    "type": "String",
+    "Tag": {}
+  },
+  "Dang_Count": {
+    "Name": "Dang_Count",
+    "type": "String",
+    "Tag": {}
+  },
+  "Duog_Count": {
+    "Name": "Duog_Count",
+    "type": "String",
+    "Tag": {}
+  },
+  "Dangfl_Count": {
+    "Name": "Dangfl_Count",
+    "type": "String",
+    "Tag": {}
+  },
+  "Duogfl_Count": {
+    "Name": "Duogfl_Count",
+    "type": "String",
+    "Tag": {}
+  },
+  "Date": {
+    "Name": "Date",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "Lunt_Count": {
+    "Name": "Lunt_Count",
+    "type": "String",
+    "Tag": {}
+  },
+  "Luntfl_Count": {
+    "Name": "Luntfl_Count",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "CY_Count": {
+    "Name": "CY_Count",
+    "type": "String",
+    "Tag": {}
+  },
+  "CYfl_Count": {
+    "Name": "CYfl_Count",
+    "type": "String",
+    "Tag": {}
+  }
+}

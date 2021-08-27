@@ -1,0 +1,26 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "UserCode": {
+    "Name": "UserCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "UserName": {
+    "Name": "UserName",
+    "type": "String",
+    "Tag": {}
+  },
+  "PWD": {
+    "Name": "PWD",
+    "type": "String",
+    "Tag": {}
+  }
+}

@@ -1,0 +1,86 @@
+/// <summary>
+        /// 获得操作日志
+        /// 除了账号是sys的用户
+        /// 只能查看自己的操作记录
+        /// </summary>
+        /// <param name="fc">page,data 封装的json对象 用于查询</param>
+        /// <returns></returns>
+        public string getLogInfo(FormCollection fc)
+        {
+
+            JObject msg = new JObject();
+
+            #region 获取数据
+            string OptUserCode = fc["OptUserCode"];
+            Lw_V_LogInfo bean = new Lw_V_LogInfo();
+            int page = 1;
+            int pageSize = 20;
+            bean = JsonConvert.DeserializeObject<Lw_V_LogInfo>(fc["data"].ToString());
+            if (!string.IsNullOrEmpty(fc["page"]))
+            {
+                page = int.Parse(fc["page"]);
+            }
+            if (!string.IsNullOrEmpty(fc["pageSize"]))
+            {
+                pageSize = int.Parse(fc["pageSize"]);
+            }
+            //TypeName DateTime1[0] DateTime1[1] UserName: page:pageSize:
+            if (OptUserCode == "sys" )
+            {
+                bean.UserCode = null;
+            }
+            else
+            {
+                bean.UserCode = OptUserCode;
+            }
+            #endregion
+
+            #region 获取sql
+
+            string ServerPath = Server.MapPath("/WebCfg/Db.json");
+            string sql = Common.find<Lw_V_LogInfo>(bean);
+            //添加额外条件
+            string ExtWhere = "";
+           
+            if (!string.IsNullOrEmpty(bean.Datetime10) && !string.IsNullOrEmpty(bean.Datetime11))
+            {
+                ExtWhere += $" Datetime1 >= '{bean.Datetime10}' AND Datetime1 <= '{bean.Datetime11}' ";
+            }
+            else if (!string.IsNullOrEmpty(bean.Datetime10))
+            {
+                ExtWhere += $" Datetime1 >= '{bean.Datetime10}' ";
+            }
+            else if (!string.IsNullOrEmpty(bean.Datetime11))
+            {
+                ExtWhere += $" Datetime1 <= '{bean.Datetime11}' ";
+            }
+            if (sql.IndexOf("WHERE") < 0 && ExtWhere.Length>1)
+            {
+                ExtWhere = " WHERE " + ExtWhere;
+            }
+            //添加日期
+
+            sql += ExtWhere+ " ORDER BY DateTime1 DESC";
+            JObject result = null;
+            //查询所有数据
+            try
+            {
+                result = Common.findCommond(sql, typeof(Lw_V_LogInfo), page, pageSize, ServerPath);
+            }
+            catch (Exception _e)
+            {
+                Log.Error("", _e);
+                throw;
+            }
+            #endregion
+
+            #region 处理数据
+
+            #endregion
+
+            #region 返回数据
+            msg.Add("status", 0);
+            msg.Add("data", result);
+            return msg.ToString();
+            #endregion
+        }

@@ -1,0 +1,101 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "cNo": {
+    "Name": "cNo",
+    "type": "String",
+    "Tag": {}
+  },
+  "PPDesc": {
+    "Name": "PPDesc",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDate": {
+    "Name": "cDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "cComCode": {
+    "Name": "cComCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonth": {
+    "Name": "cMonth",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthOne": {
+    "Name": "cMonthOne",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthTwo": {
+    "Name": "cMonthTwo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthThree": {
+    "Name": "cMonthThree",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthFour": {
+    "Name": "cMonthFour",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthFive": {
+    "Name": "cMonthFive",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPersonNo": {
+    "Name": "cPersonNo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPerson": {
+    "Name": "cPerson",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMemo": {
+    "Name": "cMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  }
+}

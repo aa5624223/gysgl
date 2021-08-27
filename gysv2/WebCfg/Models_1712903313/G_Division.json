@@ -1,0 +1,44 @@
+{
+  "cComCode": {
+    "Name": "cComCode",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "cCompName": {
+    "Name": "cCompName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cServer": {
+    "Name": "cServer",
+    "type": "String",
+    "Tag": {}
+  },
+  "cUser": {
+    "Name": "cUser",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPassWord": {
+    "Name": "cPassWord",
+    "type": "String",
+    "Tag": {}
+  },
+  "cAcc": {
+    "Name": "cAcc",
+    "type": "String",
+    "Tag": {}
+  },
+  "iYear": {
+    "Name": "iYear",
+    "type": "String",
+    "Tag": {}
+  },
+  "cInterface": {
+    "Name": "cInterface",
+    "type": "String",
+    "Tag": {}
+  }
+}

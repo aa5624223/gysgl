@@ -1,0 +1,17 @@
+{
+  "sap": {
+    "Name": "sap",
+    "type": "String",
+    "Tag": {}
+  },
+  "emp": {
+    "Name": "emp",
+    "type": "String",
+    "Tag": {}
+  },
+  "company": {
+    "Name": "company",
+    "type": "String",
+    "Tag": {}
+  }
+}

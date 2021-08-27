@@ -1,0 +1,82 @@
+{
+  "MBLNR": {
+    "Name": "MBLNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "ZEILE": {
+    "Name": "ZEILE",
+    "type": "String",
+    "Tag": {}
+  },
+  "MATNR": {
+    "Name": "MATNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "BWART": {
+    "Name": "BWART",
+    "type": "String",
+    "Tag": {}
+  },
+  "MENGE": {
+    "Name": "MENGE",
+    "type": "String",
+    "Tag": {}
+  },
+  "BUDAT": {
+    "Name": "BUDAT",
+    "type": "String",
+    "Tag": {}
+  },
+  "SHKZG": {
+    "Name": "SHKZG",
+    "type": "String",
+    "Tag": {}
+  },
+  "MAKTX": {
+    "Name": "MAKTX",
+    "type": "String",
+    "Tag": {}
+  },
+  "VenCode": {
+    "Name": "VenCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "SHKZG_NAME": {
+    "Name": "SHKZG_NAME",
+    "type": "String",
+    "Tag": {}
+  },
+  "BWART_NAME": {
+    "Name": "BWART_NAME",
+    "type": "String",
+    "Tag": {}
+  }
+}

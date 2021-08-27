@@ -1,0 +1,27 @@
+{
+  "cUserCode": {
+    "Name": "cUserCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cUserName": {
+    "Name": "cUserName",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserCode2": {
+    "Name": "pUserCode2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPurPersonCode": {
+    "Name": "cPurPersonCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "username": {
+    "Name": "username",
+    "type": "String",
+    "Tag": {}
+  }
+}

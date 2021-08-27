@@ -1,0 +1,7 @@
+{
+  "ConnectStr": {
+    //可能有多个连接对象
+    "CommonStr": "Max Pool Size=512;data source=db16a.changfanz.net;database=VendorData_new_test;user id=sa;pwd=s111111a;Max Pool Size=512;",
+    "CommonStr2": "Max Pool Size=512;data source=db16a.changfanz.net;database=PMS;user id=sa;pwd=s111111a;Max Pool Size=512;"
+  }
+}

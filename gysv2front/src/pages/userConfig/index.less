@@ -1,0 +1,32 @@
+.main{
+    padding: 10px;
+    overflow: auto;
+    background: #fff;
+}
+
+@media screen and (min-width:1520px) and (max-width:1920px) {
+    .main{
+        max-height: 810px;
+    }
+}
+@media screen and (min-width:1200px) and (max-width:1520px) {
+    .main{
+        max-height: 500px;
+    }
+}
+@media screen and  (max-width:1200px) {
+    .main{
+        max-height: 450px;
+    }
+}
+.Content-main{
+    margin-top: 20px;
+    min-height: 600px;
+    .left_content{
+        .ant-table-tbody{
+            tr{
+                cursor: pointer;
+            }
+        }
+    }
+}

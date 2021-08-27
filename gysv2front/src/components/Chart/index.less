@@ -1,0 +1,71 @@
+//尾部外部盒子的样式
+.folter_Div{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    .folter_TextArea{
+        flex-grow: 0.9;
+        width: 80%;
+    }
+    .folter_BtnArea{
+        flex-grow: 0.1;
+        align-self: center;
+        
+        .btn{
+            width: 90%;
+        }
+    }
+    .folter_UploadArea{
+        text-align: left;
+        width: 100%;
+        .upload-list-inline .ant-upload-list-item {
+            float: left;
+            width: 200px;
+            margin-right: 8px;
+        }
+        .upload-list-inline [class*='-upload-list-rtl'] .ant-upload-list-item {
+            float: right;
+        }
+    }
+}
+.body_Div{
+    border: 1px solid #f0f0f0;
+    .body_Tabs{
+        height: 450px;
+        .left{
+            display: flex;
+            width: 100%;
+            margin-bottom: 10px;
+            .select{
+                width: 200px;
+            }
+        }
+        .btn{
+            flex-grow: 0.2;
+        }
+        .chartBody{
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+            overflow-y: auto;
+            height: 100%;
+            .ChartReceiver{
+                font-size: 24px;
+                color:green
+            }
+            .ChartContent{
+                font-size: 20px;
+            }
+            .extBtn{
+                margin-left: 10px;
+            }
+        }
+        .ChartSenter{
+            font-size: 24px;
+            color: blue;
+        }
+    }
+}
+.ant-tabs-content.ant-tabs-content-left{
+    height: 100%;
+}

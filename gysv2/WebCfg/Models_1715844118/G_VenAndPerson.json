@@ -1,0 +1,26 @@
+{
+  "CVenCode": {
+    "Name": "CVenCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPurPersonCode": {
+    "Name": "cPurPersonCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cCompany": {
+    "Name": "cCompany",
+    "type": "String",
+    "Tag": {}
+  },
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  }
+}

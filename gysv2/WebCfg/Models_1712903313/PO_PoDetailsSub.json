@@ -1,0 +1,55 @@
+{
+  "AutoID": {
+    "Name": "AutoID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "cInvCode": {
+    "Name": "cInvCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "dDate": {
+    "Name": "dDate",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMemo": {
+    "Name": "cMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine": {
+    "Name": "cDefine",
+    "type": "String",
+    "Tag": {}
+  },
+  "iNum": {
+    "Name": "iNum",
+    "type": "Double",
+    "Tag": {}
+  },
+  "sID": {
+    "Name": "sID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "cComCode": {
+    "Name": "cComCode",
+    "type": "String",
+    "Tag": {}
+  }
+}

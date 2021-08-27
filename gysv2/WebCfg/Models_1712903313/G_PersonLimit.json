@@ -1,0 +1,76 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "pUserCode1": {
+    "Name": "pUserCode1",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserRole1": {
+    "Name": "pUserRole1",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserCompany1": {
+    "Name": "pUserCompany1",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserCode2": {
+    "Name": "pUserCode2",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserRole2": {
+    "Name": "pUserRole2",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserCompany2": {
+    "Name": "pUserCompany2",
+    "type": "String",
+    "Tag": {}
+  },
+  "pDate": {
+    "Name": "pDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "pMemo": {
+    "Name": "pMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "pDefine1": {
+    "Name": "pDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "pDefine2": {
+    "Name": "pDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "pDefine3": {
+    "Name": "pDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "pDefine4": {
+    "Name": "pDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "pDefine5": {
+    "Name": "pDefine5",
+    "type": "String",
+    "Tag": {}
+  }
+}

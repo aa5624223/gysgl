@@ -1,0 +1,66 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "UserID": {
+    "Name": "UserID",
+    "type": "String",
+    "Tag": {}
+  },
+  "UserName": {
+    "Name": "UserName",
+    "type": "String",
+    "Tag": {}
+  },
+  "Name": {
+    "Name": "Name",
+    "type": "String",
+    "Tag": {}
+  },
+  "Email": {
+    "Name": "Email",
+    "type": "String",
+    "Tag": {}
+  },
+  "Tel": {
+    "Name": "Tel",
+    "type": "String",
+    "Tag": {}
+  },
+  "Contents": {
+    "Name": "Contents",
+    "type": "String",
+    "Tag": {}
+  },
+  "DateUp": {
+    "Name": "DateUp",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "UpState": {
+    "Name": "UpState",
+    "type": "String",
+    "Tag": {}
+  },
+  "UpIP": {
+    "Name": "UpIP",
+    "type": "String",
+    "Tag": {}
+  },
+  "Revert": {
+    "Name": "Revert",
+    "type": "String",
+    "Tag": {}
+  },
+  "Remark": {
+    "Name": "Remark",
+    "type": "String",
+    "Tag": {}
+  }
+}

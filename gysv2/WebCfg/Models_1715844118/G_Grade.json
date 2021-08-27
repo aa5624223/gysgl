@@ -1,0 +1,85 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "G_Order": {
+    "Name": "G_Order",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "G_View": {
+    "Name": "G_View",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "G_ID": {
+    "Name": "G_ID",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Name": {
+    "Name": "G_Name",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Content": {
+    "Name": "G_Content",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Upid": {
+    "Name": "G_Upid",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Upname": {
+    "Name": "G_Upname",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Grade": {
+    "Name": "G_Grade",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Doc": {
+    "Name": "G_Doc",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Idpath": {
+    "Name": "G_Idpath",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Namepath": {
+    "Name": "G_Namepath",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Conection": {
+    "Name": "G_Conection",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_Img": {
+    "Name": "G_Img",
+    "type": "String",
+    "Tag": {}
+  },
+  "P_List": {
+    "Name": "P_List",
+    "type": "String",
+    "Tag": {}
+  }
+}

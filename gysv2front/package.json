@@ -1,0 +1,51 @@
+{
+  "name": "gysv2front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "antd": "^4.16.6",
+    "axios": "^0.21.1",
+    "babel-plugin-import": "^1.13.3",
+    "customize-cra": "^1.0.0",
+    "file-saver": "^2.0.5",
+    "less": "4.1.0",
+    "less-loader": "7.3.0",
+    "react": "^17.0.2",
+    "react-app-rewired": "2.1.8",
+    "react-dom": "^17.0.2",
+    "react-highlight-words": "^0.17.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "store": "^2.0.12",
+    "web-vitals": "^1.0.1",
+    "xlsx": "^0.17.0"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "https://localhost:44301/"
+}

@@ -1,0 +1,123 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "Type": {
+    "Name": "Type",
+    "type": "String",
+    "Tag": {}
+  },
+  "VendorCode": {
+    "Name": "VendorCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "Price": {
+    "Name": "Price",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Reason": {
+    "Name": "Reason",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_date": {
+    "Name": "G_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "G_name": {
+    "Name": "G_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "S_date": {
+    "Name": "S_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "S_name": {
+    "Name": "S_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "D_date": {
+    "Name": "D_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "D_name": {
+    "Name": "D_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "Q_date": {
+    "Name": "Q_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "Q_name": {
+    "Name": "Q_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "J_date": {
+    "Name": "J_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "J_name": {
+    "Name": "J_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "State": {
+    "Name": "State",
+    "type": "String",
+    "Tag": {}
+  },
+  "TypeID": {
+    "Name": "TypeID",
+    "type": "String",
+    "Tag": {}
+  },
+  "VendorName": {
+    "Name": "VendorName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "text": {
+    "Name": "text",
+    "type": "String",
+    "Tag": {}
+  },
+  "State_text": {
+    "Name": "State_text",
+    "type": "String",
+    "Tag": {}
+  }
+}

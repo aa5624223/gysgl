@@ -1,0 +1,6 @@
+2021-07-19 10:11:20,041 [6] ERROR gysv2.Controllers.HomeController [(null)] <(null)> - 
+System.Data.SqlClient.SqlException (0x80131904): 关键字 'ORDER' 附近有语法错误。
+   在 Common.findCommond(String sql, Type type, Int32 page, Int32 pageSize, String ConnPath) 位置 E:\WorkSpace\gysv2\gysv2\Models\Methods\Common.cs:行号 657
+   在 gysv2.Controllers.HomeController.getLogInfo(FormCollection fc) 位置 E:\WorkSpace\gysv2\gysv2\Controllers\HomeController.cs:行号 302
+ClientConnectionId:947b7de8-b3b3-4bd0-bfc1-43ace38d8035
+Error Number:156,State:1,Class:15

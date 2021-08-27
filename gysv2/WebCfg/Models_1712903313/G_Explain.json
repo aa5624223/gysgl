@@ -1,0 +1,26 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "eComCode": {
+    "Name": "eComCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "eOrder": {
+    "Name": "eOrder",
+    "type": "String",
+    "Tag": {}
+  },
+  "eExplain": {
+    "Name": "eExplain",
+    "type": "String",
+    "Tag": {}
+  }
+}

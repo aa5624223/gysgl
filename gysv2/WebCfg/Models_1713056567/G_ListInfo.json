@@ -1,0 +1,272 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "LIFNR": {
+    "Name": "LIFNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "BELNR": {
+    "Name": "BELNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "BUZEI": {
+    "Name": "BUZEI",
+    "type": "String",
+    "Tag": {}
+  },
+  "BUDATE": {
+    "Name": "BUDATE",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "NAME1": {
+    "Name": "NAME1",
+    "type": "String",
+    "Tag": {}
+  },
+  "EBELN": {
+    "Name": "EBELN",
+    "type": "String",
+    "Tag": {}
+  },
+  "EBELP": {
+    "Name": "EBELP",
+    "type": "String",
+    "Tag": {}
+  },
+  "MATNR": {
+    "Name": "MATNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "MAKTX": {
+    "Name": "MAKTX",
+    "type": "String",
+    "Tag": {}
+  },
+  "MENGE": {
+    "Name": "MENGE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "WRBTR": {
+    "Name": "WRBTR",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "JSJE": {
+    "Name": "JSJE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "MEINS": {
+    "Name": "MEINS",
+    "type": "String",
+    "Tag": {}
+  },
+  "RATE": {
+    "Name": "RATE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "KLQE": {
+    "Name": "KLQE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "MRBHQE": {
+    "Name": "MRBHQE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "MRSQ": {
+    "Name": "MRSQ",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "SJBQE": {
+    "Name": "SJBQE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "SJSJ": {
+    "Name": "SJSJ",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "SJHQE": {
+    "Name": "SJHQE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "WAERS": {
+    "Name": "WAERS",
+    "type": "String",
+    "Tag": {}
+  },
+  "GCDAT": {
+    "Name": "GCDAT",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "JXDAT": {
+    "Name": "JXDAT",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "ZTERM": {
+    "Name": "ZTERM",
+    "type": "String",
+    "Tag": {}
+  },
+  "TEXT": {
+    "Name": "TEXT",
+    "type": "String",
+    "Tag": {}
+  },
+  "MWSKZ": {
+    "Name": "MWSKZ",
+    "type": "String",
+    "Tag": {}
+  },
+  "FLAG": {
+    "Name": "FLAG",
+    "type": "String",
+    "Tag": {}
+  },
+  "YSFPH": {
+    "Name": "YSFPH",
+    "type": "String",
+    "Tag": {}
+  },
+  "State": {
+    "Name": "State",
+    "type": "String",
+    "Tag": {}
+  },
+  "Invoice_id": {
+    "Name": "Invoice_id",
+    "type": "String",
+    "Tag": {}
+  },
+  "GJAHR": {
+    "Name": "GJAHR",
+    "type": "String",
+    "Tag": {}
+  },
+  "MBLNR": {
+    "Name": "MBLNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "MJAHR": {
+    "Name": "MJAHR",
+    "type": "String",
+    "Tag": {}
+  },
+  "BELNR1": {
+    "Name": "BELNR1",
+    "type": "String",
+    "Tag": {}
+  },
+  "Old_JSJE": {
+    "Name": "Old_JSJE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Old_KLQE": {
+    "Name": "Old_KLQE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Old_MRBHQE": {
+    "Name": "Old_MRBHQE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Old_MRSQ": {
+    "Name": "Old_MRSQ",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Old_SJBQE": {
+    "Name": "Old_SJBQE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Old_SJSJ": {
+    "Name": "Old_SJSJ",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Old_SJHQE": {
+    "Name": "Old_SJHQE",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Old_WRBTR": {
+    "Name": "Old_WRBTR",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "ZBELNR": {
+    "Name": "ZBELNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "RBLGP": {
+    "Name": "RBLGP",
+    "type": "String",
+    "Tag": {}
+  },
+  "Date": {
+    "Name": "Date",
+    "type": "DateTime",
+    "Tag": {}
+  }
+}

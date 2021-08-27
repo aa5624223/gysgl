@@ -1,0 +1,74 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "Title": {
+    "Name": "Title",
+    "type": "String",
+    "Tag": {}
+  },
+  "Contents": {
+    "Name": "Contents",
+    "type": "String",
+    "Tag": {}
+  },
+  "TypeID": {
+    "Name": "TypeID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "ImageUrl": {
+    "Name": "ImageUrl",
+    "type": "String",
+    "Tag": {}
+  },
+  "Hits": {
+    "Name": "Hits",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "EditDate": {
+    "Name": "EditDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "UserID": {
+    "Name": "UserID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "State": {
+    "Name": "State",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "GID": {
+    "Name": "GID",
+    "type": "String",
+    "Tag": {}
+  },
+  "FileLoad": {
+    "Name": "FileLoad",
+    "type": "String",
+    "Tag": {}
+  },
+  "CompanyID": {
+    "Name": "CompanyID",
+    "type": "String",
+    "Tag": {}
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "Vencode": {
+    "Name": "Vencode",
+    "type": "String",
+    "Tag": {}
+  },
+  "Rk_id": {
+    "Name": "Rk_id",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_date": {
+    "Name": "G_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "G_name": {
+    "Name": "G_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "J_date": {
+    "Name": "J_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "J_name": {
+    "Name": "J_name",
+    "type": "String",
+    "Tag": {}
+  },
+  "State": {
+    "Name": "State",
+    "type": "String",
+    "Tag": {}
+  }
+}

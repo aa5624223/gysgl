@@ -1,0 +1,15 @@
+{
+  "id": {
+    "Name": "id",
+    "type": "String",
+    "Key": true,
+    "Tag": {
+      "PType": "PK"
+    }
+  },
+  "State": {
+    "Name": "State",
+    "type": "String",
+    "Tag": {}
+  }
+}

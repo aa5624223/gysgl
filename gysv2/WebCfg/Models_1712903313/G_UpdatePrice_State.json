@@ -1,0 +1,15 @@
+{
+  "id": {
+    "Name": "id",
+    "type": "String",
+    "Key": true,
+    "Tag": {
+      "PType": "PK"
+    }
+  },
+  "name": {
+    "Name": "name",
+    "type": "String",
+    "Tag": {}
+  }
+}

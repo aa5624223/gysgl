@@ -1,0 +1,56 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "UserCode": {
+    "Name": "UserCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "PassWord": {
+    "Name": "PassWord",
+    "type": "String",
+    "Tag": {}
+  },
+  "UserName": {
+    "Name": "UserName",
+    "type": "String",
+    "Tag": {}
+  },
+  "Sex": {
+    "Name": "Sex",
+    "type": "String",
+    "Tag": {}
+  },
+  "Tel": {
+    "Name": "Tel",
+    "type": "String",
+    "Tag": {}
+  },
+  "Email": {
+    "Name": "Email",
+    "type": "String",
+    "Tag": {}
+  },
+  "Dep": {
+    "Name": "Dep",
+    "type": "String",
+    "Tag": {}
+  },
+  "Com": {
+    "Name": "Com",
+    "type": "String",
+    "Tag": {}
+  },
+  "Remark": {
+    "Name": "Remark",
+    "type": "String",
+    "Tag": {}
+  }
+}

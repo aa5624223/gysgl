@@ -1,0 +1,53 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "TypeName": {
+    "Name": "TypeName",
+    "type": "String",
+    "Tag": {}
+  },
+  "Contents": {
+    "Name": "Contents",
+    "type": "String",
+    "Tag": {}
+  },
+  "DateTime1": {
+    "Name": "DateTime1",
+    "type": "String",
+    "Tag": {}
+  },
+  "UserCode": {
+    "Name": "UserCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "UserName": {
+    "Name": "UserName",
+    "type": "String",
+    "Tag": {}
+  },
+  "LogType": {
+    "Name": "LogType",
+    "type": "String",
+    "Tag": {}
+  },
+  "DetId": {
+    "Name": "DetId",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "DID": {
+    "Name": "DID",
+    "type": "String",
+    "Tag": {}
+  }
+}

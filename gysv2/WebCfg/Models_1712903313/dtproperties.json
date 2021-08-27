@@ -1,0 +1,45 @@
+{
+  "id": {
+    "Name": "id",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "objectid": {
+    "Name": "objectid",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "property": {
+    "Name": "property",
+    "type": "String",
+    "Tag": {}
+  },
+  "value": {
+    "Name": "value",
+    "type": "String",
+    "Tag": {}
+  },
+  "uvalue": {
+    "Name": "uvalue",
+    "type": "String",
+    "Tag": {}
+  },
+  "lvalue": {
+    "Name": "lvalue",
+    "type": "Byte[]",
+    "Tag": {}
+  },
+  "version": {
+    "Name": "version",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  }
+}

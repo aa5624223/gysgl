@@ -1,0 +1,6 @@
+{
+  "SocketStr": {
+    //和客户端联系的Socket
+    "ServerSocket": "/Api/Socket"
+  }
+}

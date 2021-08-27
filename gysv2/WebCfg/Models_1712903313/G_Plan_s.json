@@ -1,0 +1,206 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "PPCIds": {
+    "Name": "PPCIds",
+    "type": "String",
+    "Tag": {}
+  },
+  "PPDesc": {
+    "Name": "PPDesc",
+    "type": "String",
+    "Tag": {}
+  },
+  "cVencode": {
+    "Name": "cVencode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cVenName": {
+    "Name": "cVenName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cComCode": {
+    "Name": "cComCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cState": {
+    "Name": "cState",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDepCode": {
+    "Name": "cDepCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDepaName": {
+    "Name": "cDepaName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPersonName": {
+    "Name": "cPersonName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPoCode": {
+    "Name": "cPoCode",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "cMemo": {
+    "Name": "cMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_ID": {
+    "Name": "s_ID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "s_FID": {
+    "Name": "s_FID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "s_cInvCode": {
+    "Name": "s_cInvCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cInvName": {
+    "Name": "s_cInvName",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cInvStd": {
+    "Name": "s_cInvStd",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cUnit": {
+    "Name": "s_cUnit",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cState": {
+    "Name": "s_cState",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_iQuantiry": {
+    "Name": "s_iQuantiry",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "s_iPrice": {
+    "Name": "s_iPrice",
+    "type": "Double",
+    "Tag": {}
+  },
+  "s_iReceivedQTY": {
+    "Name": "s_iReceivedQTY",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "s_dSDate": {
+    "Name": "s_dSDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "s_dEDate": {
+    "Name": "s_dEDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "s_iConfirm": {
+    "Name": "s_iConfirm",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "s_dCDate": {
+    "Name": "s_dCDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "s_cMemo": {
+    "Name": "s_cMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cDefine1": {
+    "Name": "s_cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cDefine2": {
+    "Name": "s_cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cDefine3": {
+    "Name": "s_cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cDefine4": {
+    "Name": "s_cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cDefine5": {
+    "Name": "s_cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_cStateName": {
+    "Name": "s_cStateName",
+    "type": "String",
+    "Tag": {}
+  }
+}

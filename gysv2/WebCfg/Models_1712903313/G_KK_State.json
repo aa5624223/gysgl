@@ -1,0 +1,21 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "state_id": {
+    "Name": "state_id",
+    "type": "String",
+    "Tag": {}
+  },
+  "text": {
+    "Name": "text",
+    "type": "String",
+    "Tag": {}
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "S_ID": {
+    "Name": "S_ID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "PPCIds": {
+    "Name": "PPCIds",
+    "type": "String",
+    "Tag": {}
+  },
+  "PPDesc": {
+    "Name": "PPDesc",
+    "type": "String",
+    "Tag": {}
+  },
+  "cVencode": {
+    "Name": "cVencode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cVenName": {
+    "Name": "cVenName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cComCode": {
+    "Name": "cComCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cState": {
+    "Name": "cState",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDepCode": {
+    "Name": "cDepCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDepaName": {
+    "Name": "cDepaName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPersonName": {
+    "Name": "cPersonName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPoCode": {
+    "Name": "cPoCode",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "cMemo": {
+    "Name": "cMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "WERKS": {
+    "Name": "WERKS",
+    "type": "String",
+    "Tag": {}
+  },
+  "VDATU": {
+    "Name": "VDATU",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "BDATU": {
+    "Name": "BDATU",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "LIFNR": {
+    "Name": "LIFNR",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  }
+}

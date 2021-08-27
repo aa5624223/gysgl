@@ -1,0 +1,48 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "cType": {
+    "Name": "cType",
+    "type": "String",
+    "Tag": {}
+  },
+  "cID": {
+    "Name": "cID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "cFileNameOld": {
+    "Name": "cFileNameOld",
+    "type": "String",
+    "Tag": {}
+  },
+  "cFileNameNow": {
+    "Name": "cFileNameNow",
+    "type": "String",
+    "Tag": {}
+  },
+  "cFileSize": {
+    "Name": "cFileSize",
+    "type": "String",
+    "Tag": {}
+  },
+  "cFileType": {
+    "Name": "cFileType",
+    "type": "String",
+    "Tag": {}
+  },
+  "cFileRoot": {
+    "Name": "cFileRoot",
+    "type": "String",
+    "Tag": {}
+  }
+}

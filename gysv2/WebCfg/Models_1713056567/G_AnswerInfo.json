@@ -1,0 +1,40 @@
+{
+  "id": {
+    "Name": "id",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "Q_id": {
+    "Name": "Q_id",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "H_id": {
+    "Name": "H_id",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Text": {
+    "Name": "Text",
+    "type": "String",
+    "Tag": {}
+  },
+  "Date": {
+    "Name": "Date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "Name": {
+    "Name": "Name",
+    "type": "String",
+    "Tag": {}
+  }
+}

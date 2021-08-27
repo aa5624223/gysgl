@@ -1,0 +1,128 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "IDs": {
+    "Name": "IDs",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "sNo1": {
+    "Name": "sNo1",
+    "type": "String",
+    "Tag": {}
+  },
+  "sNo2": {
+    "Name": "sNo2",
+    "type": "String",
+    "Tag": {}
+  },
+  "sName": {
+    "Name": "sName",
+    "type": "String",
+    "Tag": {}
+  },
+  "sInvStd": {
+    "Name": "sInvStd",
+    "type": "String",
+    "Tag": {}
+  },
+  "sIsPrm": {
+    "Name": "sIsPrm",
+    "type": "Boolean",
+    "Tag": {}
+  },
+  "sIsSfm": {
+    "Name": "sIsSfm",
+    "type": "Boolean",
+    "Tag": {}
+  },
+  "sPersonNo": {
+    "Name": "sPersonNo",
+    "type": "String",
+    "Tag": {}
+  },
+  "sPerson": {
+    "Name": "sPerson",
+    "type": "String",
+    "Tag": {}
+  },
+  "sVendorNo": {
+    "Name": "sVendorNo",
+    "type": "String",
+    "Tag": {}
+  },
+  "sVendor": {
+    "Name": "sVendor",
+    "type": "String",
+    "Tag": {}
+  },
+  "sProportion": {
+    "Name": "sProportion",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthOne": {
+    "Name": "sMonthOne",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthTwo": {
+    "Name": "sMonthTwo",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthThree": {
+    "Name": "sMonthThree",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthFour": {
+    "Name": "sMonthFour",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthFive": {
+    "Name": "sMonthFive",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMemo": {
+    "Name": "sMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine1": {
+    "Name": "sDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine2": {
+    "Name": "sDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine3": {
+    "Name": "sDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine4": {
+    "Name": "sDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine5": {
+    "Name": "sDefine5",
+    "type": "String",
+    "Tag": {}
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "pUserCode1": {
+    "Name": "pUserCode1",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserRole1": {
+    "Name": "pUserRole1",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserName1": {
+    "Name": "pUserName1",
+    "type": "String",
+    "Tag": {}
+  },
+  "pCompany1": {
+    "Name": "pCompany1",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserCode2": {
+    "Name": "pUserCode2",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserRole2": {
+    "Name": "pUserRole2",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserName2": {
+    "Name": "pUserName2",
+    "type": "String",
+    "Tag": {}
+  },
+  "pCompany2": {
+    "Name": "pCompany2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cState": {
+    "Name": "cState",
+    "type": "String",
+    "Tag": {}
+  }
+}

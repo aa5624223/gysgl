@@ -1,0 +1,121 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "cUserCode": {
+    "Name": "cUserCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cUserName": {
+    "Name": "cUserName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPassWord": {
+    "Name": "cPassWord",
+    "type": "String",
+    "Tag": {}
+  },
+  "cCompany": {
+    "Name": "cCompany",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDepartment": {
+    "Name": "cDepartment",
+    "type": "String",
+    "Tag": {}
+  },
+  "cRole": {
+    "Name": "cRole",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPersonLimit": {
+    "Name": "cPersonLimit",
+    "type": "String",
+    "Tag": {}
+  },
+  "cVendorLimit": {
+    "Name": "cVendorLimit",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMobile": {
+    "Name": "cMobile",
+    "type": "String",
+    "Tag": {}
+  },
+  "cState": {
+    "Name": "cState",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDate": {
+    "Name": "cDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "cMemo": {
+    "Name": "cMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "u_StateName": {
+    "Name": "u_StateName",
+    "type": "String",
+    "Tag": {}
+  },
+  "RoleName": {
+    "Name": "RoleName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cCompName": {
+    "Name": "cCompName",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserCode1": {
+    "Name": "pUserCode1",
+    "type": "String",
+    "Tag": {}
+  },
+  "pUserCode2": {
+    "Name": "pUserCode2",
+    "type": "String",
+    "Tag": {}
+  }
+}

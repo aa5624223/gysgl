@@ -1,0 +1,39 @@
+{
+  "LogID": {
+    "Name": "LogID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "LogTime": {
+    "Name": "LogTime",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "LogType": {
+    "Name": "LogType",
+    "type": "String",
+    "Tag": {}
+  },
+  "UserName": {
+    "Name": "UserName",
+    "type": "String",
+    "Tag": {}
+  },
+  "ClientIP": {
+    "Name": "ClientIP",
+    "type": "String",
+    "Tag": {}
+  },
+  "PageUrl": {
+    "Name": "PageUrl",
+    "type": "String",
+    "Tag": {}
+  },
+  "LogNote": {
+    "Name": "LogNote",
+    "type": "String",
+    "Tag": {}
+  }
+}

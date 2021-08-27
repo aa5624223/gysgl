@@ -1,0 +1,48 @@
+.Header{
+    background-color: white;
+    height: 80px;
+    .Header-top{
+        height: 40px;
+        line-height: 40px;
+        text-align: right;
+        font-size: 20px;
+        border-bottom: 1px solid #1da57a;
+        span{
+            margin-right: 20px;
+        }
+        a{
+            margin-right: 30px;
+        }
+    }
+    .Header-btm{
+        height: 40px;
+        line-height: 40px;
+        display: flex;
+        .Header-btm-left{
+            position: relative;
+            width: 25%;
+            text-align: center;
+            font-size: 25px;
+            font-weight: 600;
+            &::after{
+                content: '';
+                position: absolute;
+                right: 50%;
+                top: 100%;
+                transform: translateX(50%);
+                border-top: 20px solid white;
+                border-right: 20px solid transparent;
+                border-bottom: 20px solid transparent;
+                border-left: 20px solid transparent;
+            }
+        }
+        .Header-btn-right{
+            width: 75%;
+            text-align: right;
+            font-size: 20px;
+            span{
+                margin-right: 40px;
+            }
+        }
+    }
+}

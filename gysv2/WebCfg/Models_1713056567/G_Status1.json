@@ -1,0 +1,149 @@
+{
+  "S_id": {
+    "Name": "S_id",
+    "type": "String",
+    "Tag": {}
+  },
+  "H_id": {
+    "Name": "H_id",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_date": {
+    "Name": "G_date",
+    "type": "String",
+    "Tag": {}
+  },
+  "GZ_date": {
+    "Name": "GZ_date",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "Vencode": {
+    "Name": "Vencode",
+    "type": "String",
+    "Tag": {}
+  },
+  "Matnr": {
+    "Name": "Matnr",
+    "type": "String",
+    "Tag": {}
+  },
+  "Matbr_matkx": {
+    "Name": "Matbr_matkx",
+    "type": "String",
+    "Tag": {}
+  },
+  "Bstmg": {
+    "Name": "Bstmg",
+    "type": "String",
+    "Tag": {}
+  },
+  "Jshsj": {
+    "Name": "Jshsj",
+    "type": "String",
+    "Tag": {}
+  },
+  "Jshsje": {
+    "Name": "Jshsje",
+    "type": "Decimal",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "Person": {
+    "Name": "Person",
+    "type": "String",
+    "Tag": {}
+  },
+  "Mw": {
+    "Name": "Mw",
+    "type": "String",
+    "Tag": {}
+  },
+  "Invoice_id": {
+    "Name": "Invoice_id",
+    "type": "String",
+    "Tag": {}
+  },
+  "State": {
+    "Name": "State",
+    "type": "String",
+    "Tag": {}
+  },
+  "date": {
+    "Name": "date",
+    "type": "String",
+    "Tag": {}
+  },
+  "E_date": {
+    "Name": "E_date",
+    "type": "String",
+    "Tag": {}
+  },
+  "Mark": {
+    "Name": "Mark",
+    "type": "String",
+    "Tag": {}
+  },
+  "KBETR": {
+    "Name": "KBETR",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "cUserName": {
+    "Name": "cUserName",
+    "type": "String",
+    "Tag": {}
+  },
+  "Sh_Person": {
+    "Name": "Sh_Person",
+    "type": "String",
+    "Tag": {}
+  },
+  "newKBETR": {
+    "Name": "newKBETR",
+    "type": "String",
+    "Tag": {}
+  },
+  "newJshsj": {
+    "Name": "newJshsj",
+    "type": "String",
+    "Tag": {}
+  },
+  "newJshsje": {
+    "Name": "newJshsje",
+    "type": "String",
+    "Tag": {}
+  },
+  "Update": {
+    "Name": "Update",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine6": {
+    "Name": "cDefine6",
+    "type": "String",
+    "Tag": {}
+  }
+}

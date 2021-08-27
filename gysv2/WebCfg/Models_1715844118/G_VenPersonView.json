@@ -1,0 +1,27 @@
+{
+  "CVenCode": {
+    "Name": "CVenCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cVenName": {
+    "Name": "cVenName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cUserCode": {
+    "Name": "cUserCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cUserName": {
+    "Name": "cUserName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cCompany": {
+    "Name": "cCompany",
+    "type": "String",
+    "Tag": {}
+  }
+}

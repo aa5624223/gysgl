@@ -1,0 +1,51 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "RoleID": {
+    "Name": "RoleID",
+    "type": "String",
+    "Tag": {}
+  },
+  "RoleName": {
+    "Name": "RoleName",
+    "type": "String",
+    "Tag": {}
+  },
+  "Role01": {
+    "Name": "Role01",
+    "type": "String",
+    "Tag": {}
+  },
+  "Role02": {
+    "Name": "Role02",
+    "type": "String",
+    "Tag": {}
+  },
+  "Role03": {
+    "Name": "Role03",
+    "type": "String",
+    "Tag": {}
+  },
+  "Role04": {
+    "Name": "Role04",
+    "type": "String",
+    "Tag": {}
+  },
+  "Role05": {
+    "Name": "Role05",
+    "type": "String",
+    "Tag": {}
+  },
+  "RoleOrder": {
+    "Name": "RoleOrder",
+    "type": "String",
+    "Tag": {}
+  }
+}

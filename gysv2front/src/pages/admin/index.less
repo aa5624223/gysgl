@@ -1,0 +1,108 @@
+.contentMain{
+  padding: 24;
+}
+/*
+  侧边栏
+*/
+.left-nav{
+  .left-nav-header{
+      display: flex;
+      height: 66px;
+      align-items: center;
+      
+      h1{
+          margin-top: 0px;
+          font-size: 20px;
+          font-weight: 600;
+          color: #fff;
+      }
+  }
+}
+.logo{
+  width: 52px;
+  height: 52px;
+}
+/*
+  顶部
+*/
+.Header{
+  background-color: white;
+  height: 66px;
+  .Header-top{
+      line-height: 40px;
+      text-align: right;
+      font-size: 20px;
+      padding: 10px 10px;
+      float: right;
+      span{
+          margin-right: 20px;
+      }
+      a{
+          margin-right: 30px;
+      }
+  }
+  .trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+}
+/* 底部ICon */
+.BtmFixIcon{
+  position: fixed;
+    right: 32px;
+    bottom: 102px;
+    z-index: 2147483640;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    .BtmFixIcon_Outer{
+      width: 44px;
+      height: 44px;
+      line-height: 40px;
+      font-size: 22px;
+      color: #000;
+      background-color:none;
+      box-shadow: 0 3px 6px -4px #0000001f, 0 6px 16px #00000014, 0 9px 28px 8px #0000000d;
+      text-align: center;
+      vertical-align: middle;
+      border-radius: 50%;
+    }
+    .BtmFixIcon_Outer:hover{
+      font-size:24px;
+      color: #1890ff;
+      transition:color .8s;
+      transition:font-size .2s;
+    }
+}
+.shackAnimation{
+  color:#faad14;
+  animation: shake 800ms infinite;
+}
+@keyframes shake { /* 水平抖动，核心代码 */
+  10%, 90% { transform: translate3d(-1px, 0, 0);color: orange;}
+  20%, 80% { transform: translate3d(+2px, 0px, 0); }
+  30%, 70% { transform: translate3d(-4px, 0px, 0); color: orange}
+  40%, 60% { transform: translate3d(+4px, 0px, 0); }
+  50% { transform: translate3d(-4px, 0px, 0);color: orange }
+}
+.upload-list-inline .ant-upload-list-item {
+  float: left;
+  width: 200px;
+  margin-right: 8px;
+}
+
+.upload-list-inline [class*='-upload-list-rtl'] .ant-upload-list-item {
+  float: right;
+}
+/* 聊天框左侧姓名 */
+.ant-tabs-tab{
+  width: 280px;
+  
+}
+.ant-tabs-tab-btn{
+  overflow:hidden;
+  text-overflow:ellipsis;
+}

@@ -1,0 +1,37 @@
+{
+  "cVenCode": {
+    "Name": "cVenCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cVenName": {
+    "Name": "cVenName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cVCCode": {
+    "Name": "cVCCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cVenAddress": {
+    "Name": "cVenAddress",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPassWord": {
+    "Name": "cPassWord",
+    "type": "String",
+    "Tag": {}
+  },
+  "cRole": {
+    "Name": "cRole",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPerson": {
+    "Name": "cPerson",
+    "type": "String",
+    "Tag": {}
+  }
+}

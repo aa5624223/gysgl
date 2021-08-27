@@ -1,0 +1,76 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "NewID": {
+    "Name": "NewID",
+    "type": "String",
+    "Tag": {}
+  },
+  "VenID": {
+    "Name": "VenID",
+    "type": "String",
+    "Tag": {}
+  },
+  "ReadTime": {
+    "Name": "ReadTime",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine6": {
+    "Name": "cDefine6",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine7": {
+    "Name": "cDefine7",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine8": {
+    "Name": "cDefine8",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine9": {
+    "Name": "cDefine9",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine10": {
+    "Name": "cDefine10",
+    "type": "String",
+    "Tag": {}
+  }
+}

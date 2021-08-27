@@ -1,0 +1,14 @@
+{
+  "F_id": {
+    "Name": "F_id",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "F_name": {
+    "Name": "F_name",
+    "type": "String",
+    "Tag": {}
+  }
+}

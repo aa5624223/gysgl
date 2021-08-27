@@ -1,0 +1,225 @@
+{
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "cNo": {
+    "Name": "cNo",
+    "type": "String",
+    "Tag": {}
+  },
+  "PPDesc": {
+    "Name": "PPDesc",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDate": {
+    "Name": "cDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "cComCode": {
+    "Name": "cComCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonth": {
+    "Name": "cMonth",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthOne": {
+    "Name": "cMonthOne",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthTwo": {
+    "Name": "cMonthTwo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthThree": {
+    "Name": "cMonthThree",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthFour": {
+    "Name": "cMonthFour",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMonthFive": {
+    "Name": "cMonthFive",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPersonNo": {
+    "Name": "cPersonNo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cPerson": {
+    "Name": "cPerson",
+    "type": "String",
+    "Tag": {}
+  },
+  "cMemo": {
+    "Name": "cMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "IDs": {
+    "Name": "IDs",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "sNo1": {
+    "Name": "sNo1",
+    "type": "String",
+    "Tag": {}
+  },
+  "sNo2": {
+    "Name": "sNo2",
+    "type": "String",
+    "Tag": {}
+  },
+  "sName": {
+    "Name": "sName",
+    "type": "String",
+    "Tag": {}
+  },
+  "sIsPrm": {
+    "Name": "sIsPrm",
+    "type": "Boolean",
+    "Tag": {}
+  },
+  "sInvStd": {
+    "Name": "sInvStd",
+    "type": "String",
+    "Tag": {}
+  },
+  "sIsSfm": {
+    "Name": "sIsSfm",
+    "type": "Boolean",
+    "Tag": {}
+  },
+  "sPersonNo": {
+    "Name": "sPersonNo",
+    "type": "String",
+    "Tag": {}
+  },
+  "sVendorNo": {
+    "Name": "sVendorNo",
+    "type": "String",
+    "Tag": {}
+  },
+  "sPerson": {
+    "Name": "sPerson",
+    "type": "String",
+    "Tag": {}
+  },
+  "sVendor": {
+    "Name": "sVendor",
+    "type": "String",
+    "Tag": {}
+  },
+  "sProportion": {
+    "Name": "sProportion",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthOne": {
+    "Name": "sMonthOne",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthTwo": {
+    "Name": "sMonthTwo",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthThree": {
+    "Name": "sMonthThree",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthFive": {
+    "Name": "sMonthFive",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMonthFour": {
+    "Name": "sMonthFour",
+    "type": "String",
+    "Tag": {}
+  },
+  "sMemo": {
+    "Name": "sMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine1": {
+    "Name": "sDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine2": {
+    "Name": "sDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine3": {
+    "Name": "sDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine5": {
+    "Name": "sDefine5",
+    "type": "String",
+    "Tag": {}
+  },
+  "sDefine4": {
+    "Name": "sDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "s_ID": {
+    "Name": "s_ID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "S_id": {
+    "Name": "S_id",
+    "type": "String",
+    "Tag": {}
+  },
+  "H_id": {
+    "Name": "H_id",
+    "type": "String",
+    "Tag": {}
+  },
+  "G_date": {
+    "Name": "G_date",
+    "type": "String",
+    "Tag": {}
+  },
+  "Vencode": {
+    "Name": "Vencode",
+    "type": "String",
+    "Tag": {}
+  },
+  "Matnr": {
+    "Name": "Matnr",
+    "type": "String",
+    "Tag": {}
+  },
+  "Matbr_matkx": {
+    "Name": "Matbr_matkx",
+    "type": "String",
+    "Tag": {}
+  },
+  "Bstmg": {
+    "Name": "Bstmg",
+    "type": "String",
+    "Tag": {}
+  },
+  "Jshsj": {
+    "Name": "Jshsj",
+    "type": "String",
+    "Tag": {}
+  },
+  "Jshsje": {
+    "Name": "Jshsje",
+    "type": "String",
+    "Tag": {}
+  },
+  "Person": {
+    "Name": "Person",
+    "type": "String",
+    "Tag": {}
+  },
+  "State": {
+    "Name": "State",
+    "type": "String",
+    "Tag": {}
+  },
+  "date": {
+    "Name": "date",
+    "type": "String",
+    "Tag": {}
+  },
+  "E_date": {
+    "Name": "E_date",
+    "type": "String",
+    "Tag": {}
+  }
+}

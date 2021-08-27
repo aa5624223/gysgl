@@ -1,0 +1,147 @@
+{
+  "订单号": {
+    "Name": "订单号",
+    "type": "String",
+    "Tag": {}
+  },
+  "供应商编码": {
+    "Name": "供应商编码",
+    "type": "String",
+    "Tag": {}
+  },
+  "供应商名称": {
+    "Name": "供应商名称",
+    "type": "String",
+    "Tag": {}
+  },
+  "单据日期": {
+    "Name": "单据日期",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "单据状态": {
+    "Name": "单据状态",
+    "type": "String",
+    "Tag": {}
+  },
+  "订单打开时间": {
+    "Name": "订单打开时间",
+    "type": "String",
+    "Tag": {}
+  },
+  "订单确认时间": {
+    "Name": "订单确认时间",
+    "type": "String",
+    "Tag": {}
+  },
+  "ID": {
+    "Name": "ID",
+    "type": "Int32",
+    "Key": true,
+    "Tag": {
+      "PType": "PK",
+      "Model": 3
+    }
+  },
+  "FID": {
+    "Name": "FID",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "cInvCode": {
+    "Name": "cInvCode",
+    "type": "String",
+    "Tag": {}
+  },
+  "cInvName": {
+    "Name": "cInvName",
+    "type": "String",
+    "Tag": {}
+  },
+  "cInvStd": {
+    "Name": "cInvStd",
+    "type": "String",
+    "Tag": {}
+  },
+  "cUnit": {
+    "Name": "cUnit",
+    "type": "String",
+    "Tag": {}
+  },
+  "cState": {
+    "Name": "cState",
+    "type": "String",
+    "Tag": {}
+  },
+  "iQuantiry": {
+    "Name": "iQuantiry",
+    "type": "Double",
+    "Tag": {}
+  },
+  "iPrice": {
+    "Name": "iPrice",
+    "type": "Double",
+    "Tag": {}
+  },
+  "iReceivedQTY": {
+    "Name": "iReceivedQTY",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "dSDate": {
+    "Name": "dSDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "dEDate": {
+    "Name": "dEDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "iConfirm": {
+    "Name": "iConfirm",
+    "type": "Int32",
+    "Tag": {
+      "Model": 3
+    }
+  },
+  "dCDate": {
+    "Name": "dCDate",
+    "type": "DateTime",
+    "Tag": {}
+  },
+  "cMemo": {
+    "Name": "cMemo",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine1": {
+    "Name": "cDefine1",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine2": {
+    "Name": "cDefine2",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine3": {
+    "Name": "cDefine3",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine4": {
+    "Name": "cDefine4",
+    "type": "String",
+    "Tag": {}
+  },
+  "cDefine5": {
+    "Name": "cDefine5",
+    "type": "String",
+    "Tag": {}
+  }
+}
